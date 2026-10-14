@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn>=1.2
+torch>=2.0
+optuna
+tqdm
+SQLAlchemy
+psycopg2-binary

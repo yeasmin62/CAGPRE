@@ -1,0 +1,52 @@
+SL,Gender,Age range,Condition,Median Glucose,Glucose Q1,Glucose Q3,Glucose range,Normal_lower_range,Normal_higher_Range,Plausible_lower_range,Plausible_higher_range
+75,FEMALE,20-29,Type 1 diabetes mellitus,9,8.2,9.4,Jan-73,3.9,10,0,35
+76,FEMALE,20-29,Type 2 diabetes mellitus,8.1,7.6,8.8,Jan-73,3.9,8,0,35
+77,FEMALE,30-39,Diabetes mellitus,9,8,10,Jan-88,3.9,8,0,35
+78,FEMALE,30-39,Type 1 diabetes mellitus,9.5,8.5,10.5,0-94,3.9,10,0,35
+79,FEMALE,30-39,Type 2 diabetes mellitus,8.4,7.4,9.4,Jan-94,3.9,8,0,35
+80,FEMALE,40-49,Type 1 diabetes mellitus,9.7,8.6,11,0-92,3.9,10,0,35
+81,FEMALE,40-49,Type 2 diabetes mellitus,8.8,7.6,10.4,0-98,3.9,8,0,35
+82,FEMALE,50-59,Diabetes mellitus,9.2,8,10.7,1-110,3.9,8,0,35
+83,FEMALE,50-59,Type 1 diabetes mellitus,9.7,8.4,11.1,0-92,3.9,10,0,35
+84,FEMALE,50-59,Type 2 diabetes mellitus,8.9,7.6,10.7,0-151,3.9,8,0,35
+85,FEMALE,60-69,Diabetes mellitus,9,7.8,10.4,0-87,3.9,8,0,35
+86,FEMALE,60-69,Type 1 diabetes mellitus,9.3,8,10.9,0-664,3.9,10,0,35
+87,FEMALE,60-69,Type 2 diabetes mellitus,8.6,7.4,10.3,0-91,3.9,8,0,35
+88,FEMALE,70-79,Type 1 diabetes mellitus,9.1,7.7,10.8,0-842,3.9,10,0,35
+89,FEMALE,70-79,Type 2 diabetes mellitus,8.5,7.4,10.3,0-967,3.9,8,0,35
+90,FEMALE,80-89,Diabetes mellitus,8.8,7.6,10.2,0-101,3.9,8,0,35
+91,FEMALE,80-89,Type 1 diabetes mellitus,9,7.5,10.6,0-934,3.9,10,0,35
+92,FEMALE,80-89,Type 2 diabetes mellitus,8.5,7.3,10.4,0-448,3.9,8,0,35
+93,FEMALE,90-99,Type 1 diabetes mellitus,8.2,7.3,9.5,0-101,3.9,10,0,35
+94,FEMALE,90-99,Diabetes mellitus,8.5,7.7,9.6,Jan-76,3.9,8,0,35
+95,FEMALE,90-99,Type 2 diabetes mellitus,8.4,7.4,9.8,Jan-76,3.9,8,0,35
+96,MALE,20-29,Diabetes mellitus,9.9,9,11.3,Feb-59,3.9,8,0,35
+97,MALE,20-29,Type 1 diabetes mellitus,9.8,9.1,11.1,Feb-59,3.9,10,0,35
+98,MALE,30-39,Type 1 diabetes mellitus,10,9.1,11.2,Jan-83,3.9,10,0,35
+99,MALE,30-39,Type 2 diabetes mellitus,9.4,8.1,11,Jan-73,3.9,8,0,35
+100,MALE,40-49,Diabetes mellitus,9.7,8.3,11.4,0-111,3.9,8,0,35
+101,MALE,40-49,Type 1 diabetes mellitus,9.9,8.6,11.4,0-216,3.9,10,0,35
+102,MALE,40-49,Type 2 diabetes mellitus,9.4,7.9,11.4,1-111,3.9,8,0,35
+103,MALE,50-59,Type 1 diabetes mellitus,9.7,8.3,11.5,0-1210,3.9,10,0,35
+104,MALE,50-59,Type 2 diabetes mellitus,9.2,7.7,11.3,0-1210105,3.9,8,0,35
+105,MALE,60-69,Diabetes mellitus,9.1,7.7,10.9,0-1160,3.9,8,0,35
+106,MALE,70-79,Type 2 diabetes mellitus,8.7,7.4,10.5,0-999,3.9,8,0,35
+107,MALE,70-79,Type 1 diabetes mellitus,9.2,7.7,10.9,0-999,3.9,10,0,35
+108,MALE,80-89,Diabetes mellitus,8.8,7.6,10.2,0-87,3.9,8,0,35
+109,MALE,80-89,Type 1 diabetes mellitus,9.1,7.7,10.8,0-390,3.9,10,0,35
+110,MALE,80-89,Type 2 diabetes mellitus,8.7,7.4,10.5,0-1380,3.9,8,0,35
+111,FEMALE,30-39,None,,,,,4,7,2.5,10.9
+112,FEMALE,40-49,None,,,,,4,7,2.5,10.9
+113,FEMALE,50-59,None,,,,,4,7,2.5,10.9
+114,FEMALE,60-69,None,,,,,4,7,2.5,10.9
+115,FEMALE,70-79,None,,,,,4,7,2.5,10.9
+116,FEMALE,80-89,None,,,,,4,7,2.5,10.9
+117,FEMALE,90-99,None,,,,,4,7,2.5,10.9
+118,MALE,20-29,None,,,,,4,7,2.5,10.9
+119,MALE,30-39,None,,,,,4,7,2.5,10.9
+120,MALE,40-49,None,,,,,4,7,2.5,10.9
+121,MALE,50-59,None,,,,,4,7,2.5,10.9
+122,MALE,60-69,None,,,,,4,7,2.5,10.9
+123,MALE,70-79,None,,,,,4,7,2.5,10.9
+124,MALE,80-89,None,,,,,4,7,2.5,10.9
+125,MALE,90-99,None,,,,,4,7,2.5,10.9

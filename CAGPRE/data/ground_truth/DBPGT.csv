@@ -1,0 +1,52 @@
+SL,Gender,Age range,Condition,Median DBP,DBP Q1,DBP Q3,DBP (Diastolic_Blood_Pressure) range,Normal_lower_range,Normal_higher_Range,Plausible_lower_range,Plausible_higher_range
+1,FEMALE,30-39,Essential hypertension,80,70,90,60-1005,60,80,40,150
+2,FEMALE,40-49,Essential hypertension,80,70,90,7-12070,60,80,40,150
+3,FEMALE,50-59,Essential hypertension,80,70,85,0-220,60,80,40,150
+4,FEMALE,60-69,Essential hypertension,80,70,80,0-875,60,80,40,150
+5,FEMALE,70-79,Essential hypertension,80,70,80,0-14085,60,80,40,150
+6,FEMALE,80-89,Essential hypertension,80,70,80,0-13070,60,80,40,150
+7,FEMALE,90-99,Essential hypertension,75,70,80,7-850,60,80,40,150
+8,MALE,30-39,Essential hypertension,80,70,80,50-110,60,80,40,150
+9,MALE,40-49,Essential hypertension,80,75,90,8-140,60,80,40,150
+10,MALE,50-59,Essential hypertension,80,75,85,0-890,60,80,40,150
+11,MALE,50-59,Essential hypertension,80,75,85,0-890,60,80,40,150
+12,MALE,70-79,Essential hypertension,80,70,80,0-14080,60,80,40,150
+13,MALE,80-89,Essential hypertension,75,70,80,0-90160,60,80,40,150
+14,MALE,90-99,Essential hypertension,75,70,80,0-855555,60,80,40,150
+15,FEMALE,50-59,Secondary hypertension,70,70,80,60-110,60,80,40,150
+16,FEMALE,60-69,Secondary hypertension,80,70,88.2,8-170,60,80,40,150
+17,FEMALE,70-79,Secondary hypertension,80,70,80,60-140,60,80,40,150
+18,FEMALE,80-89,Secondary hypertension,80,70,80.8,57-162,60,80,40,150
+19,MALE,50-59,Secondary hypertension,80,70,90,60-120,60,80,40,150
+20,MALE,60-69,Secondary hypertension,80,70,80,0-120,60,80,40,150
+21,MALE,70-79,Secondary hypertension,80,70,80,50-140,60,80,40,150
+22,MALE,80-89,Secondary hypertension,70,70,80,40-130,60,80,40,150
+23,FEMALE,30-39,No Hypertension,75,65,80,50-100,60,80,40,150
+24,FEMALE,40-49,No Hypertension,75,65,80,50-100,60,80,40,150
+25,FEMALE,50-59,No Hypertension,75,65,80,50-100,60,80,40,150
+26,FEMALE,60-69,No Hypertension,78,68,82,50-105,60,82,40,150
+27,FEMALE,70-79,No Hypertension,78,68,82,45-105,60,82,40,150
+28,FEMALE,80-89,No Hypertension,76,66,80,45-100,58,80,40,150
+29,FEMALE,90-99,No Hypertension,74,64,78,45-95,58,78,40,150
+30,MALE,30-39,No Hypertension,78,68,82,50-105,62,82,40,150
+31,MALE,40-49,No Hypertension,78,68,82,50-105,62,82,40,150
+32,MALE,50-59,No Hypertension,78,68,82,50-105,62,82,40,150
+33,MALE,60-69,No Hypertension,80,70,84,50-110,62,84,40,150
+34,MALE,70-79,No Hypertension,78,68,82,45-105,60,82,40,150
+35,MALE,80-89,No Hypertension,76,66,80,45-100,58,80,40,150
+36,MALE,90-99,No Hypertension,74,64,78,45-95,58,78,40,150
+69,FEMALE,30-39,None,,,,,60,80,40,120
+70,FEMALE,40-49,None,,,,,60,80,40,120
+71,FEMALE,50-59,None,,,,,60,80,40,120
+72,FEMALE,60-69,None,,,,,60,80,40,120
+73,FEMALE,70-79,None,,,,,60,80,40,120
+74,FEMALE,80-89,None,,,,,60,80,40,120
+75,FEMALE,90-99,None,,,,,60,80,40,120
+76,MALE,20-29,None,,,,,60,80,40,120
+77,MALE,30-39,None,,,,,60,80,40,120
+78,MALE,40-49,None,,,,,60,80,40,120
+79,MALE,50-59,None,,,,,60,80,40,120
+80,MALE,60-69,None,,,,,60,80,40,120
+81,MALE,70-79,None,,,,,60,80,40,120
+82,MALE,80-89,None,,,,,60,80,40,120
+83,MALE,90-99,None,,,,,60,80,40,120
